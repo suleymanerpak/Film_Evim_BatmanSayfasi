@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Film Evim</string>
+    <string name="filmBaslik">Batman</string>
+    <string name="filmMatch">%97 Match</string>
+    <string name="filmYili">2023</string>
+    <string name="filmUzunlugu">2h 21m</string>
+    <string name="filmGoruntuKalitesi">FHD</string>
+    <string name="filmAciklama1">In the 2022 film "The Batman," a young and brooding Bruce Wayne takes on the mantle of Gothams protector as he uncovers dark secrets lurking in the citys underbelly. The film explores the heros early years, emphasizing his detective skills and internal struggles.</string>
+    <string name="filmButonYazi">PLAY</string>
+
+
+
+
+
+
+
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Film Evim</string>
+    <string name="filmBaslik">Batman</string>
+    <string name="filmMatch">%97 Eşleşme</string>
+    <string name="filmYili">2023</string>
+    <string name="filmUzunlugu">2s 21dk</string>
+    <string name="filmGoruntuKalitesi">FHD</string>
+    <string name="filmAciklama1">2022 yapımı The Batman filminde, genç ve karanlık bir Bruce Wayne, Gothamın koruyucusu olarak şehrin altındaki karanlık sırları ortaya çıkarırken suçla mücadele ediyor. Film, kahramanın ilk yıllarını, dedektiflik becerilerini ve içsel mücadelesini ön plana çıkarıyor.</string>
+    <string name="filmButonYazi">OYNAT</string>
+
+
+
+
+
+
+
+
+</resources>
